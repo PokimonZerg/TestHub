@@ -1,2 +1,2 @@
 # TestHub
-TestHub is home of your tests
+TestHub is a home of your tests
